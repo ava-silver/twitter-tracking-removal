@@ -1,0 +1,1 @@
+just a firefox extension (if it works in chrome too then neat) to remove tracking params from twitter urls
